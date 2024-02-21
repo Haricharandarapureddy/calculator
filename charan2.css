@@ -1,0 +1,17 @@
+body{
+    background-image: url("f8bf19cc-42ad-4567-b243-2ab7d7a64817.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+} 
+#result{
+    border-radius: 6px; 
+    border: 3px; 
+    border-color: solid black;
+} 
+button:hover{
+    background-color: rgb(64, 96, 155);
+}
+
+h1:hover{
+    background-color: aqua
+}
